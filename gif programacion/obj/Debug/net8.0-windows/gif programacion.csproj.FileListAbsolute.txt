@@ -1,0 +1,17 @@
+C:\Users\Alexandra\source\repos\gif programacion\bin\Debug\net8.0-windows\gif programacion.exe
+C:\Users\Alexandra\source\repos\gif programacion\bin\Debug\net8.0-windows\gif programacion.deps.json
+C:\Users\Alexandra\source\repos\gif programacion\bin\Debug\net8.0-windows\gif programacion.runtimeconfig.json
+C:\Users\Alexandra\source\repos\gif programacion\bin\Debug\net8.0-windows\gif programacion.dll
+C:\Users\Alexandra\source\repos\gif programacion\bin\Debug\net8.0-windows\gif programacion.pdb
+C:\Users\Alexandra\source\repos\gif programacion\obj\Debug\net8.0-windows\gif_programacion.Form1.resources
+C:\Users\Alexandra\source\repos\gif programacion\obj\Debug\net8.0-windows\gif_programacion.Properties.Resources.resources
+C:\Users\Alexandra\source\repos\gif programacion\obj\Debug\net8.0-windows\gif programacion.csproj.GenerateResource.cache
+C:\Users\Alexandra\source\repos\gif programacion\obj\Debug\net8.0-windows\gif programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\source\repos\gif programacion\obj\Debug\net8.0-windows\gif programacion.AssemblyInfoInputs.cache
+C:\Users\Alexandra\source\repos\gif programacion\obj\Debug\net8.0-windows\gif programacion.AssemblyInfo.cs
+C:\Users\Alexandra\source\repos\gif programacion\obj\Debug\net8.0-windows\gif programacion.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\source\repos\gif programacion\obj\Debug\net8.0-windows\gif programacion.dll
+C:\Users\Alexandra\source\repos\gif programacion\obj\Debug\net8.0-windows\refint\gif programacion.dll
+C:\Users\Alexandra\source\repos\gif programacion\obj\Debug\net8.0-windows\gif programacion.pdb
+C:\Users\Alexandra\source\repos\gif programacion\obj\Debug\net8.0-windows\gif programacion.genruntimeconfig.cache
+C:\Users\Alexandra\source\repos\gif programacion\obj\Debug\net8.0-windows\ref\gif programacion.dll
