@@ -1,0 +1,16 @@
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\bin\Debug\net8.0-windows\PRACTICA 6.exe
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\bin\Debug\net8.0-windows\PRACTICA 6.deps.json
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\bin\Debug\net8.0-windows\PRACTICA 6.runtimeconfig.json
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\bin\Debug\net8.0-windows\PRACTICA 6.dll
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\bin\Debug\net8.0-windows\PRACTICA 6.pdb
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\obj\Debug\net8.0-windows\PRACTICA_6.Form1.resources
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\obj\Debug\net8.0-windows\PRACTICA 6.csproj.GenerateResource.cache
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\obj\Debug\net8.0-windows\PRACTICA 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\obj\Debug\net8.0-windows\PRACTICA 6.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\obj\Debug\net8.0-windows\PRACTICA 6.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\obj\Debug\net8.0-windows\PRACTICA 6.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\obj\Debug\net8.0-windows\PRACTICA 6.dll
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\obj\Debug\net8.0-windows\refint\PRACTICA 6.dll
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\obj\Debug\net8.0-windows\PRACTICA 6.pdb
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\obj\Debug\net8.0-windows\PRACTICA 6.genruntimeconfig.cache
+C:\Users\Alexandra\Desktop\PROGRAMACION\Visual Studio\PRACTICA 6\obj\Debug\net8.0-windows\ref\PRACTICA 6.dll
